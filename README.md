@@ -8,9 +8,9 @@ Software Engineer | Full Stack Developer | NET Core | React | Angular
 I'm a Software Engineer from Chattogram. I specialize in React, Angular, Next JS, ASPNET CORE, C#, REST API, SQL, and JavaScript. I am passionate about building excellent software that improves the lives of clients ranging from individuals and small businesses to large enterprise corporations. Also, I love to create and build websites that are mobile-first ready and fully responsive to individuals, startups, businesses, etc. I'm always motivated and have the desire to learn more. While I'm not learning something new, debugging some code or trying to position elements right, I love to hang out with my friends, listen to podcast or music, watching movies, etc.
 
 * 🌍  I'm based in Chattogram, Bangladesh
-* 🖥️  See my portfolio at [robinhaider.com](http://www.robinhaider.com)
+* 🖥️  See my portfolio at [robinhaider.com](https://www.robinhaider.com)
 * ✉️  You can contact me at [hello@robinhaider.com](mailto:hello@robinhaider.com)
-* 🚀  I'm currently working on [Ticketing Microservices](http://github.com/RobinHaider/ticketing-microservice-node)
+* 🚀  I'm currently working on [Ticketing Microservices](https://github.com/RobinHaider/ticketing-microservice-node)
 * 🧠  I'm learning Microservices, Async Communication Docker, Kubernetes
 * 🤝  I'm open to collaborating on Any Project
 * ⚡  I'm a Marvel Fan
@@ -51,11 +51,11 @@ src="https://img.shields.io/github/followers/robinhaider?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/robinhaider"><img src="https://github-readme-stats.vercel.app/api?username=robinhaider&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="robinhaider's GitHub stats" /></a>
+<a href="https://www.github.com/robinhaider"><img src="https://github-readme-stats.vercel.app/api?username=robinhaider&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="robinhaider's GitHub stats" /></a>
 
-<a href="http://www.github.com/robinhaider"><img src="https://github-readme-streak-stats.herokuapp.com/?user=robinhaider&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://www.github.com/robinhaider"><img src="https://github-readme-streak-stats.herokuapp.com/?user=robinhaider&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/robinhaider"><img src="https://activity-graph.herokuapp.com/graph?username=robinhaider&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://www.github.com/robinhaider"><img src="https://activity-graph.herokuapp.com/graph?username=robinhaider&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/robinhaider" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robinhaider&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
