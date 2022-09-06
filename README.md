@@ -8,7 +8,7 @@ Software Engineer | Full Stack Developer | NET Core | React | Angular
 I'm a Software Engineer from Chattogram. I specialize in React, Angular, Next JS, ASPNET CORE, C#, REST API, SQL, and JavaScript. I am passionate about building excellent software that improves the lives of clients ranging from individuals and small businesses to large enterprise corporations. Also, I love to create and build websites that are mobile-first ready and fully responsive to individuals, startups, businesses, etc. I'm always motivated and have the desire to learn more. While I'm not learning something new, debugging some code or trying to position elements right, I love to hang out with my friends, listen to podcast or music, watching movies, etc.
 
 * 🌍  I'm based in Chattogram, Bangladesh
-* 🖥️  See my portfolio at [robinhaider.com](https://www.robinhaider.com)
+* 🖥️  See my portfolio at [robinhaider.com](https://robinhaider.com)
 * ✉️  You can contact me at [hello@robinhaider.com](mailto:hello@robinhaider.com)
 * 🚀  I'm currently working on [Ticketing Microservices](https://github.com/RobinHaider/ticketing-microservice-node)
 * 🧠  I'm learning Microservices, Async Communication Docker, Kubernetes
